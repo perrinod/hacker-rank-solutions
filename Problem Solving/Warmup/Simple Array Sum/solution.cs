@@ -1,3 +1,4 @@
+//https://www.hackerrank.com/challenges/simple-array-sum/problem
 using System;
 using System.Collections.Generic;
 using System.IO;

@@ -1,3 +1,4 @@
+//https://www.hackerrank.com/challenges/compare-the-triplets/problem
 'use strict';
 
 const fs = require('fs');
@@ -22,7 +23,6 @@ function readLine() {
     return inputString[currentLine++];
 }
 
-// Complete the compareTriplets function below.
 function compareTriplets(a, b) {
     var alisonScore, bobScore;
     alisonScore = bobScore = 0;

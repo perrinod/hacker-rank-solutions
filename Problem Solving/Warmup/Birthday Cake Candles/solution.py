@@ -1,3 +1,4 @@
+#https://www.hackerrank.com/challenges/birthday-cake-candles/problem
 #!/bin/python3
 
 import math
@@ -6,7 +7,6 @@ import random
 import re
 import sys
 
-# Complete the birthdayCakeCandles function below.
 def birthdayCakeCandles(ar):
     total, height = 1, ar[0]
 

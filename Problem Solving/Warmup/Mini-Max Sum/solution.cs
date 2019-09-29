@@ -1,3 +1,4 @@
+//https://www.hackerrank.com/challenges/mini-max-sum/problem
 using System.CodeDom.Compiler;
 using System.Collections.Generic;
 using System.Collections;

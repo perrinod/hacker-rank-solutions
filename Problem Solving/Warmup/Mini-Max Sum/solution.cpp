@@ -1,10 +1,10 @@
+//https://www.hackerrank.com/challenges/mini-max-sum/problem
 #include <bits/stdc++.h>
 
 using namespace std;
 
 vector<string> split_string(string);
 
-// Complete the miniMaxSum function below.
 void miniMaxSum(vector<int> arr) {
     long min, max, sum = 0;
     min = max = arr.front();

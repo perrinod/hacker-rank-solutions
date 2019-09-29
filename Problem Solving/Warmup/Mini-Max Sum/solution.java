@@ -1,3 +1,4 @@
+//https://www.hackerrank.com/challenges/mini-max-sum/problem
 import java.io.*;
 import java.math.*;
 import java.security.*;

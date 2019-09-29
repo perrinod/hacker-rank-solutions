@@ -1,3 +1,4 @@
+#https://www.hackerrank.com/challenges/mini-max-sum/problem
 #!/bin/python3
 
 import math

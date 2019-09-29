@@ -1,10 +1,8 @@
+//https://www.hackerrank.com/challenges/time-conversion/problem
 #include <bits/stdc++.h>
 
 using namespace std;
 
-/*
- * Complete the timeConversion function below.
- */
 string timeConversion(string s) {
     string meridian = s.substr(s.size() - 2, s.size());
     string ms = s.substr(2, s.size() - 4);
