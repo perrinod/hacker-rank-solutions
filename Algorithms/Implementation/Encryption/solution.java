@@ -1,4 +1,4 @@
-//https://www.hackerrank.com/challenges/encryption/copy-from/115838566
+//https://www.hackerrank.com/challenges/encryption/problem
 import java.io.*;
 import java.math.*;
 import java.security.*;

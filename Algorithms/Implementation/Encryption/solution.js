@@ -1,4 +1,4 @@
-//https://www.hackerrank.com/challenges/encryption/copy-from/115838566
+//https://www.hackerrank.com/challenges/encryption/problem
 'use strict';
 
 const fs = require('fs');

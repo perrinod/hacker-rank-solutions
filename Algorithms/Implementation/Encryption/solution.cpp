@@ -1,4 +1,4 @@
-//https://www.hackerrank.com/challenges/encryption/copy-from/115838566
+//https://www.hackerrank.com/challenges/encryption/problem
 #include <bits/stdc++.h>
 
 using namespace std;
