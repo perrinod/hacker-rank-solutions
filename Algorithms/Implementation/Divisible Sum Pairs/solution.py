@@ -17,7 +17,7 @@ def divisibleSumPairs(n, k, ar):
                 pair+= 1
 
     
-    return pair;
+    return pair
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
