@@ -1,4 +1,4 @@
-//https://www.hackerrank.com/challenges/find-digits/copy-from/115842909
+//https://www.hackerrank.com/challenges/find-digits/problem
 #include <bits/stdc++.h>
 
 using namespace std;
