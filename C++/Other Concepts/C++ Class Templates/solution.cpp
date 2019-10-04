@@ -1,4 +1,4 @@
-//https://www.hackerrank.com/challenges/c-class-templates
+//https://www.hackerrank.com/challenges/c-class-templates/problem
 #include <cmath>
 #include <cstdio>
 #include <vector>

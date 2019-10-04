@@ -55,6 +55,33 @@
 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | <ul><li>[C++](https://github.com/perrinod/hacker-rank-solutions/blob/master/Algorithms/Warmup/Staircase/solution.cpp)</li><li>[C#](https://github.com/perrinod/hacker-rank-solutions/blob/master/Algorithms/Warmup/Staircase/solution.cs)</li></ul> |
 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | <ul><li>[C++](https://github.com/perrinod/hacker-rank-solutions/blob/master/Algorithms/Warmup/Time%20Conversion/solution.cpp)</li><li>[C#](https://github.com/perrinod/hacker-rank-solutions/blob/master/Algorithms/Warmup/Time%20Conversion/solution.cs)</li><li>[Java](https://github.com/perrinod/hacker-rank-solutions/blob/master/Algorithms/Warmup/Time%20Conversion/solution.java)</li></ul> |
 
+### C++/Classes
+
+| Title        | Solutions          |
+|:--------------|:---------------------|
+| [Box It!](https://www.hackerrank.com/challenges/box-it/problem) | <ul><li>[C++](https://github.com/perrinod/hacker-rank-solutions/blob/master/C%2B%2B/Classes/Box%20It!/solution.cpp)</li></ul> |
+| [Class](https://www.hackerrank.com/challenges/c-tutorial-class/problem) | <ul><li>[C++](https://github.com/perrinod/hacker-rank-solutions/blob/master/C%2B%2B/Classes/Class/solution.cpp)</li></ul> |
+| [Classes and Objects](https://www.hackerrank.com/challenges/classes-objects/problem) | <ul><li>[C++](https://github.com/perrinod/hacker-rank-solutions/blob/master/C%2B%2B/Classes/Classes%20and%20Objects/solution.cpp)</li></ul> |
+| [Exceptional Server](https://www.hackerrank.com/challenges/exceptional-server/problem) | <ul><li>[C++](https://github.com/perrinod/hacker-rank-solutions/blob/master/C%2B%2B/Classes/Exceptional%20Server/solution.cpp)</li></ul> |
+| [Inherited Code](https://www.hackerrank.com/challenges/inherited-code/problem) | <ul><li>[C++](https://github.com/perrinod/hacker-rank-solutions/blob/master/C%2B%2B/Classes/Inherited%20Code/solution.cpp)</li></ul> |
+| [Struct](https://github.com/perrinod/hacker-rank-solutions/tree/master/C%2B%2B/Classes/Struct) | <ul><li>[C++](https://www.hackerrank.com/challenges/c-tutorial-struct/problem)</li></ul> |
+
+### C++/Debugging
+
+| Title        | Solutions          |
+|:--------------|:---------------------|
+| [Cpp exception handling](https://www.hackerrank.com/challenges/cpp-exception-handling/problem) | <ul><li>[C++](https://github.com/perrinod/hacker-rank-solutions/blob/master/C%2B%2B/Debugging/Cpp%20exception%20handling/solution.cpp)</li></ul> |
+| [Hotel Prices](https://www.hackerrank.com/challenges/hotel-prices/problem) | <ul><li>[C++](https://github.com/perrinod/hacker-rank-solutions/blob/master/C%2B%2B/Debugging/Hotel%20Prices/solution.cpp)</li></ul> |
+| [Overloading Ostream Operator](https://www.hackerrank.com/challenges/overloading-ostream-operator/problem) | <ul><li>[C++](https://github.com/perrinod/hacker-rank-solutions/blob/master/C%2B%2B/Debugging/Overloading%20Ostream%20Operator/solution.cpp)</li></ul> |
+
+### C++/Inheritance
+
+| Title        | Solutions          |
+|:--------------|:---------------------|
+| [Inheritance Introduction](https://www.hackerrank.com/challenges/inheritance-introduction/problem) | <ul><li>[C++](https://github.com/perrinod/hacker-rank-solutions/blob/master/C%2B%2B/Inheritance/Inheritance%20Introduction/solution.cpp)</li></ul> |
+| [Multi Level Inheritance](https://www.hackerrank.com/challenges/multi-level-inheritance-cpp/problem) | <ul><li>[C++](https://github.com/perrinod/hacker-rank-solutions/blob/master/C%2B%2B/Inheritance/Multi%20Level%20Inheritance/solution.cpp)</li></ul> |
+| [Rectangle Area](https://www.hackerrank.com/challenges/rectangle-area/problem) | <ul><li>[C++](https://github.com/perrinod/hacker-rank-solutions/blob/master/C%2B%2B/Inheritance/Rectangle%20Area/solution.cpp)</li></ul> |
+
 ### C++/Introduction
 
 | Title        | Solutions          |
@@ -69,6 +96,32 @@
 | [Say Hello, World! With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem) | <ul><li>[C++](https://github.com/perrinod/hacker-rank-solutions/blob/master/C%2B%2B/Introduction/Say%20Hello%2C%20World!%20With%20C%2B%2B/solution.cpp)</li></ul> |
 | [Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays/problem) | <ul><li>[C++](https://github.com/perrinod/hacker-rank-solutions/blob/master/C%2B%2B/Introduction/Variable%20Sized%20Arrays/solution.cpp)</li></ul> |
 
+### C++/Other Concepts
+
+| Title        | Solutions          |
+|:--------------|:---------------------|
+| [C++ Class Template Specialization](https://www.hackerrank.com/challenges/cpp-class-template-specialization/problem) | <ul><li>[C++](https://github.com/perrinod/hacker-rank-solutions/blob/master/C%2B%2B/Other%20Concepts/C%2B%2B%20Class%20Template%20Specialization/solution.cpp)</li></ul> |
+| [C++ Class Templates](https://www.hackerrank.com/challenges/c-class-templates/problem) | <ul><li>[C++](https://github.com/perrinod/hacker-rank-solutions/blob/master/C%2B%2B/Other%20Concepts/C%2B%2B%20Class%20Templates/solution.cpp)</li></ul> |
+| [Overload Operators](https://www.hackerrank.com/challenges/overload-operators/problem) | <ul><li>[C++](https://github.com/perrinod/hacker-rank-solutions/tree/master/C%2B%2B/Other%20Concepts/Overload%20Operators)</li></ul> |
+| [Preprocessor Solution](https://www.hackerrank.com/challenges/preprocessor-solution/problem) | <ul><li>[C++](https://github.com/perrinod/hacker-rank-solutions/blob/master/C%2B%2B/Other%20Concepts/Preprocessor%20Solution/solution.cpp)</li></ul> |
+
+### C++/STL
+
+| Title        | Solutions          |
+|:--------------|:---------------------|
+| [Lower Bound-STL](https://www.hackerrank.com/challenges/cpp-lower-bound/problem) | <ul><li>[C++](https://github.com/perrinod/hacker-rank-solutions/blob/master/C%2B%2B/STL/Lower%20Bound-STL/solution.cpp)</li></ul> |
+| [Maps-STL](https://www.hackerrank.com/challenges/cpp-maps/problem) | <ul><li>[C++](https://github.com/perrinod/hacker-rank-solutions/blob/master/C%2B%2B/STL/Maps-STL/solution.cpp)</li></ul> |
+| [Print Pretty](https://www.hackerrank.com/challenges/prettyprint/problem) | <ul><li>[C++](https://github.com/perrinod/hacker-rank-solutions/blob/master/C%2B%2B/STL/Print%20Pretty/solution.cpp)</li></ul> |
+| [Sets-STL](https://www.hackerrank.com/challenges/cpp-sets/problem) | <ul><li>[C++](https://github.com/perrinod/hacker-rank-solutions/blob/master/C%2B%2B/STL/Sets-STL/solution.cpp)</li></ul> |
+| [Vector-Erase](https://www.hackerrank.com/challenges/vector-erase/problem) | <ul><li>[C++](https://github.com/perrinod/hacker-rank-solutions/blob/master/C%2B%2B/STL/Vector-Erase/solution.cpp)</li></ul> |
+| [Vector-Sort](https://www.hackerrank.com/challenges/vector-sort/problem) | <ul><li>[C++](https://github.com/perrinod/hacker-rank-solutions/blob/master/C%2B%2B/STL/Vector-Sort/solution.cpp)</li></ul> |
+
+### C++/Strings
+
+| Title        | Solutions          |
+|:--------------|:---------------------|
+| [StringStream](https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem) | <ul><li>[C++](https://github.com/perrinod/hacker-rank-solutions/blob/master/C%2B%2B/Strings/Strings/StringStream/solution.cpp)</li></ul> |
+| [Strings](https://www.hackerrank.com/challenges/c-tutorial-strings/problem) | <ul><li>[C++](https://github.com/perrinod/hacker-rank-solutions/blob/master/C%2B%2B/Strings/Strings/Strings/solution.cpp)</li></ul> |
 
 ### Data Structures/Linked Lists
 
@@ -76,3 +129,26 @@
 |:--------------|:---------------------|
 | [Insert a Node at the Head of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem) | <ul><li>[C++](https://github.com/perrinod/hacker-rank-solutions/blob/master/Data%20Structures/Linked%20Lists/Insert%20a%20Node%20at%20the%20Head%20of%20a%20Linked%20List/solution.cpp)</li><li>[C#](https://github.com/perrinod/hacker-rank-solutions/blob/master/Data%20Structures/Linked%20Lists/Insert%20a%20Node%20at%20the%20Head%20of%20a%20Linked%20List/solution.cs)</li><li>[Java](https://github.com/perrinod/hacker-rank-solutions/blob/master/Data%20Structures/Linked%20Lists/Insert%20a%20Node%20at%20the%20Head%20of%20a%20Linked%20List/solution.java)</li><li>[JavaScript](https://github.com/perrinod/hacker-rank-solutions/blob/master/Data%20Structures/Linked%20Lists/Insert%20a%20Node%20at%20the%20Head%20of%20a%20Linked%20List/solution.js)</li><li>[Python](https://github.com/perrinod/hacker-rank-solutions/blob/master/Data%20Structures/Linked%20Lists/Insert%20a%20Node%20at%20the%20Head%20of%20a%20Linked%20List/solution.py)</li></ul> |
 | [Insert a Node at the Tail of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem) | <ul><li>[C++](https://github.com/perrinod/hacker-rank-solutions/blob/master/Data%20Structures/Linked%20Lists/Insert%20a%20Node%20at%20the%20Head%20of%20a%20Linked%20List/solution.cpp)</li><li>[C#](https://github.com/perrinod/hacker-rank-solutions/blob/master/Data%20Structures/Linked%20Lists/Insert%20a%20Node%20at%20the%20Head%20of%20a%20Linked%20List/solution.cs)</li><li>[Java](https://github.com/perrinod/hacker-rank-solutions/blob/master/Data%20Structures/Linked%20Lists/Insert%20a%20Node%20at%20the%20Head%20of%20a%20Linked%20List/solution.java)</li><li>[JavaScript](https://github.com/perrinod/hacker-rank-solutions/blob/master/Data%20Structures/Linked%20Lists/Insert%20a%20Node%20at%20the%20Head%20of%20a%20Linked%20List/solution.js)</li><li>[Python](https://github.com/perrinod/hacker-rank-solutions/blob/master/Data%20Structures/Linked%20Lists/Insert%20a%20Node%20at%20the%20Head%20of%20a%20Linked%20List/solution.py)</li></ul> |
+
+### Java/Introduction
+
+| Title        | Solutions          |
+|:--------------|:---------------------|
+| [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem) | <ul><li>[Java](https://github.com/perrinod/hacker-rank-solutions/blob/master/Java/Introduction/Java%20Currency%20Formatter/solution.java)</li></ul> |
+| [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem) | <ul><li>[Java](https://github.com/perrinod/hacker-rank-solutions/tree/master/Java/Introduction/Java%20Datatypes)</li></ul> |
+| [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem) | <ul><li>[Java](https://github.com/perrinod/hacker-rank-solutions/blob/master/Java/Introduction/Java%20Date%20and%20Time/solution.java)</li></ul> |
+| [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem) | <ul><li>[Java](https://github.com/perrinod/hacker-rank-solutions/blob/master/Java/Introduction/Java%20End-of-file/solution.java)</li></ul> |
+| [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem) | <ul><li>[Java](https://github.com/perrinod/hacker-rank-solutions/blob/master/Java/Introduction/Java%20If-Else/solution.java)</li></ul> |
+| [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem) | <ul><li>[Java](https://github.com/perrinod/hacker-rank-solutions/blob/master/Java/Introduction/Java%20Int%20to%20String/solution.java)</li></ul> |
+| [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem) | <ul><li>[Java](https://github.com/perrinod/hacker-rank-solutions/blob/master/Java/Introduction/Java%20Loops%20I/solution.java)</li></ul> |
+| [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem) | <ul><li>[Java](https://github.com/perrinod/hacker-rank-solutions/blob/master/Java/Introduction/Java%20Loops%20II/solution.java)</li></ul> |
+| [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) | <ul><li>[Java](https://github.com/perrinod/hacker-rank-solutions/blob/master/Java/Introduction/Java%20Static%20Initializer%20Block/solution.java)</li></ul> |
+| [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) | <ul><li>[Java](https://github.com/perrinod/hacker-rank-solutions/blob/master/Java/Introduction/Java%20Stdin%20and%20Stdout%20II/solution.java)</li></ul> |
+| [Java Stdin and Stdout](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | <ul><li>[Java](https://github.com/perrinod/hacker-rank-solutions/blob/master/Java/Introduction/Java%20Stdin%20and%20Stdout/solution.java)</li></ul> |
+| [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem) | <ul><li>[Java](https://github.com/perrinod/hacker-rank-solutions/blob/master/Java/Introduction/Welcome%20to%20Java!/solution.java)</li></ul> |
+
+### Java/Strings
+
+| Title        | Solutions          |
+|:--------------|:---------------------|
+| [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem) | <ul><li>[Java](https://github.com/perrinod/hacker-rank-solutions/blob/master/Java/Strings/Java%20Strings%20Introduction/solution.java)</li></ul> |

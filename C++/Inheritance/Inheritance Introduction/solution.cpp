@@ -1,4 +1,4 @@
-//https://www.hackerrank.com/challenges/inheritance-introduction
+//https://www.hackerrank.com/challenges/inheritance-introduction/problem
 #include <iostream>
 
 class Triangle{
