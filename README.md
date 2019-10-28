@@ -152,3 +152,24 @@
 | Title        | Solutions          |
 |:--------------|:---------------------|
 | [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem) | <ul><li>[Java](https://github.com/perrinod/hacker-rank-solutions/blob/master/Java/Strings/Java%20Strings%20Introduction/solution.java)</li></ul> |
+
+### Python/Basic Data Types
+
+| Title        | Solutions          |
+|:--------------|:---------------------|
+| [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | <ul><li>[Python](https://github.com/perrinod/hacker-rank-solutions/blob/master/Python/Basic%20Data%20Types/Find%20the%20Runner-Up%20Score!/solution.py)</li></ul> |
+| [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | <ul><li>[Python](https://github.com/perrinod/hacker-rank-solutions/blob/master/Python/Basic%20Data%20Types/Finding%20the%20percentage/solution.py)</li></ul> |
+| [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | <ul><li>[Python](https://github.com/perrinod/hacker-rank-solutions/blob/master/Python/Basic%20Data%20Types/List%20Comprehensions/solution.py)</li></ul> |
+| [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem) | <ul><li>[Python](https://github.com/perrinod/hacker-rank-solutions/blob/master/Python/Basic%20Data%20Types/Tuples/solution.py)</li></ul> |
+
+### Python/Introduction
+
+| Title        | Solutions          |
+|:--------------|:---------------------|
+| [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | <ul><li>[Python]https://github.com/perrinod/hacker-rank-solutions/blob/master/Python/Introduction/Arithmetic%20Operators/solution.py)</li></ul> |
+| [Loops](https://www.hackerrank.com/challenges/python-loops/problem) | <ul><li>[Python](https://github.com/perrinod/hacker-rank-solutions/blob/master/Python/Introduction/Loops/solution.py)</li></ul> |
+| [Print Function](https://www.hackerrank.com/challenges/python-print/problem) | <ul><li>[Python](https://github.com/perrinod/hacker-rank-solutions/blob/master/Python/Introduction/Print%20Function/solution.py)</li></ul> |
+| [Python Division](https://www.hackerrank.com/challenges/python-division/problem) | <ul><li>[Python](https://github.com/perrinod/hacker-rank-solutions/blob/master/Python/Introduction/Python%20Division/solution.py)</li></ul> |
+| [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) | <ul><li>[Python](https://github.com/perrinod/hacker-rank-solutions/blob/master/Python/Introduction/Python%20If-Else/solution.py)</li></ul> |
+| [Say Hello, World! With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) | <ul><li>[Python](https://github.com/perrinod/hacker-rank-solutions/blob/master/Python/Introduction/Say%20Hello%2C%20World!%20With%20Python/solution.py)</li></ul> |
+| [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) | <ul><li>[Python](https://github.com/perrinod/hacker-rank-solutions/blob/master/Python/Introduction/Write%20a%20function/solution.py)</li></ul> |
