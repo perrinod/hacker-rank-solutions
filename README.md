@@ -3,10 +3,15 @@
 </p>
 
 ### Algorithms/Bit Manipulation
+
+| Title        | Solutions          |
+|:--------------|:---------------------|
 | [Bit Manipulation](https://www.hackerrank.com/challenges/flipping-bits/problem) | <ul><li>[C++](https://github.com/perrinod/hacker-rank-solutions/blob/master/Algorithms/Bit%20Manipulation/Flipping%20Bits/solution.cpp)</li><li>[C#](https://github.com/perrinod/hacker-rank-solutions/blob/master/Algorithms/Bit%20Manipulation/Flipping%20Bits/solution.cs)</li><li>[Java](https://github.com/perrinod/hacker-rank-solutions/blob/master/Algorithms/Bit%20Manipulation/Flipping%20Bits/solution.java)</li><li>[JavaScript](https://github.com/perrinod/hacker-rank-solutions/blob/master/Algorithms/Bit%20Manipulation/Flipping%20Bits/solution.js)</li><li>[Python](https://github.com/perrinod/hacker-rank-solutions/blob/master/Algorithms/Bit%20Manipulation/Flipping%20Bits/solution.py)</li></ul> |
 
 ### Algorithms/Debugging
 
+| Title        | Solutions          |
+|:--------------|:---------------------|
 | [Prime Dates](https://www.hackerrank.com/challenges/prime-date/problem) | <ul><li>[C++](https://github.com/perrinod/hacker-rank-solutions/blob/master/Algorithms/Debugging/Prime%20Dates/solution.cpp)</li><li>[Java](https://github.com/perrinod/hacker-rank-solutions/blob/master/Algorithms/Debugging/Prime%20Dates/solution.java)</li><li>[Python](https://github.com/perrinod/hacker-rank-solutions/blob/master/Algorithms/Debugging/Prime%20Dates/solution.py)</li></ul> |
 | [Smart Number](https://www.hackerrank.com/challenges/smart-number/problem) | <ul><li>[C++](https://github.com/perrinod/hacker-rank-solutions/blob/master/Algorithms/Debugging/Smart%20Number/solution.cpp)</li><li>[Java](https://github.com/perrinod/hacker-rank-solutions/blob/master/Algorithms/Debugging/Smart%20Number/solution.java)</li><li>[Python](https://github.com/perrinod/hacker-rank-solutions/blob/master/Algorithms/Debugging/Smart%20Number/solution.py)</li></ul> |
 | [XOR Strings](https://www.hackerrank.com/challenges/strings-xor/problem) | <ul><li>[C++](https://github.com/perrinod/hacker-rank-solutions/blob/master/Algorithms/Debugging/XOR%20Strings/solution.cpp)</li><li>[Java](https://github.com/perrinod/hacker-rank-solutions/blob/master/Algorithms/Debugging/XOR%20Strings/solution.java)</li><li>[Python](https://github.com/perrinod/hacker-rank-solutions/blob/master/Algorithms/Debugging/XOR%20Strings/solution.py)</li></ul> |
